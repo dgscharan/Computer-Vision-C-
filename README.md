@@ -1,2 +1,3 @@
-# Computer-Vision-C-
+# Computer-Vision-Cpp
+
 For UMBC Learning 
